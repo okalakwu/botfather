@@ -1,0 +1,17 @@
+ssh -i C:/Users/HP/Documents/botfather/botfather.pem ubuntu@54.90.134.162
+
+
+Access key: AKIAY2ANSBCGUBESLUXL
+Secret access key: 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
+AMI ID: ami-0d016af584f4febe3
+
+
+
+https://console.aws.amazon.com/iam/
+
+
+
+step 1. 
+
+
+step 4. 
